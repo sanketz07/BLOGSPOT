@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "id": 1
+    },
+    {
+      "name": "swapnil deokar",
+      "email": "swapnil@gmail.com",
+      "password": "aaaaa",
+      "id": 2
+    },
+    {
+      "name": "sanket sunil zunjakar",
+      "email": "sanketzunjakar1995@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "ajay",
+      "email": "ajay@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "name": "ajay",
+      "email": "devgan",
+      "password": "5555",
+      "id": 5
+    },
+    {
+      "name": "sanket sunil zunjakar",
+      "email": "sanketzunjakar@gmail.com",
+      "password": "8888",
+      "id": 6
+    },
+    {
+      "name": "sanket sunil zunjakar",
+      "email": "sanketzunjakar@gmail.com",
+      "password": "8888",
+      "id": 7
+    },
+    {
+      "name": "sanket sunil zunjakar",
+      "email": "sanketzunjakar1995@gmail.com",
+      "password": "1234",
+      "id": 8
+    },
+    {
+      "name": "sameena",
+      "email": "sameena@gmail.com",
+      "password": "1234",
+      "id": 9
+    }
+  ]
+}
